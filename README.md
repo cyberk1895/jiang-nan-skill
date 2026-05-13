@@ -193,7 +193,7 @@ jiang-nan-skill/
 ## 致谢
 
 - 蒸馏流程和框架：[女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill)
-- 结构优化：[达尔文 · Skill进化](https://github.com/alchaincyf/darwin-skill)（三轮迭代，84→93 分；联网更新后待重新评分）
+- 结构优化：[达尔文 · Skill进化](https://github.com/alchaincyf/darwin-skill)（三轮迭代，84→93 分）
 - 联网补充：2026年5月B站/豆瓣/微博/贴吧/百科/起点等多平台调研
 - 江南（杨治）——二十年的创作，留下了足够多的文字让人去理解他是怎么想的
 
@@ -201,7 +201,7 @@ jiang-nan-skill/
 
 <div align="center">
 
-> *「写书人的胜负不在于一时，而在于能否持续产出——花开花谢二十年。」*
+> *「我们都是小怪兽，有一天会被正义的奥特曼杀死。」*
 
 ---
 
