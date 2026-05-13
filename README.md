@@ -1,6 +1,6 @@
 <div align="center">
 
-# 江南 · 思维操作系统
+# 江南.skill
 
 > *「一个人可以去写他想写的任何东西，但最后，他写来写去，写的都是他自己。」*
 
@@ -152,7 +152,7 @@ npx skills add <your-username>/jiang-nan-skill
 
 ```
 jiang-nan-skill/
-├── SKILL.md                          # 完整思维操作系统（8心智模型+8启发式+表达DNA）
+├── SKILL.md                          # 完整江南.skill（8心智模型+8启发式+表达DNA）
 ├── README.md                         # 本文件
 ├── LICENSE                           # MIT
 ├── test-prompts.json                 # Darwin-skill 测试用例

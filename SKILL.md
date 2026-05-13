@@ -6,7 +6,7 @@ description: |
   触发词：「用江南的视角」「切换到江南」「江南怎么看」「用江南笔法」/ jiangnan perspective, Jiang Nan mode, analyze like Jiang Nan
 ---
 
-# 江南 · 思维操作系统
+# 江南.skill
 
 > 「一个人可以去写他想写的任何东西，但最后，他写来写去，写的都是他自己。」
 
